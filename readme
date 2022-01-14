@@ -1,0 +1,4 @@
+This new-old project aims to get a fast CRUD. Only the database variables are needed, without any table name defined.
+The second step of the project is to guess the records fields input type automatically. The fields maybe predefined in an array.
+The CRUD makes it very easy ans fast to create a page for managing a single table data, with the less writing code to get an output for end user.
+This new-old project was just a 2 days coding pleasure, so improvement of code, sql security requests and structure is basic. Feel free to provide your version and add/modify the code.
